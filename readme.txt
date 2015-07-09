@@ -9,8 +9,4 @@ this is the first test
 
 this is a new file
 
-<<<<<<< HEAD
 master and branch test
-=======
-master and branch test
->>>>>>> feature1
