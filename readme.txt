@@ -8,3 +8,5 @@ the file is modified again
 this is the first test
 
 this is a new file
+
+master branch test
